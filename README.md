@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BrandonCaldwell00
 - 👀 I’m interested in ... Web Developement
 - 🌱 I’m currently learning ... HTML
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... brandontycaldwell@gmail.com
 
 <!---
